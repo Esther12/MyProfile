@@ -13,22 +13,22 @@ class Landing extends Component {
                         className = "avatar-img"
                     />
                     <div className = 'banner-text'>
-                        <h1>   Full stack developer</h1>
+                        <h1>   Front End developer</h1>
                         <hr></hr>
                         <p>
                             HTML/CSS | Bootstrap | JavaScript | React | NodeJS | MangoDB | MySQL
                         </p>
                         <div className = "social-links">
                         {/** LinkedIn */}
-                        <a href = 'http://google.com' rel = "noopener noreferrer" target = "_blank">
+                        <a href = 'https://www.linkedin.com/in/yating-esther' rel = "noopener noreferrer" target = "_blank">
                         <i className = "fab fa-linkedin"/>
                         </a>
                         {/** Github */}
-                        <a href = 'http://google.com' rel = "noopener noreferrer" target = "_blank">
+                        <a href = 'https://github.com/Esther12' rel = "noopener noreferrer" target = "_blank">
                         <i class="fab fa-github-square"></i>
                         </a>
                         {/** Youtube */}
-                        <a href = 'http://google.com' rel = "noopener noreferrer" target = "_blank">
+                        <a href = 'https://www.youtube.com/channel/UC5EI9GD3sgoGYcNb8tGxKOQ?view_as=subscriber' rel = "noopener noreferrer" target = "_blank">
                         <i class="fab fa-youtube-square"></i>
                         </a>
                         </div>
